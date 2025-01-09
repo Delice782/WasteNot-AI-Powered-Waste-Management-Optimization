@@ -1,2 +1,10 @@
-# WasteNot-AI-Powered-Waste-Management-Optimization
-WasteNot is an AI-driven waste management solution that optimizes waste collection routes, enhances recycling, and reduces landfill waste. Using data from smart bins and local traffic conditions, it creates efficient schedules and offers personalized recycling tips to households and businesses, aiming to lower costs and promote sustainability.
+# WasteNot: AI-Powered Waste Management Optimization
+
+## Overview
+WasteNot is an AI-driven platform that optimizes waste collection by analyzing data from smart bins and traffic conditions. It provides efficient collection routes and personalized recycling tips to households and businesses, reducing waste-related costs and promoting sustainable urban living.
+
+## Tech Stack
+- **Backend**: Flask (Python)
+- **Machine Learning**: scikit-learn (predictive model for route optimization)
+- **Frontend**: React.js
+- **IoT Integration**: Real-time data from smart bins (bin fill levels, types of waste)
