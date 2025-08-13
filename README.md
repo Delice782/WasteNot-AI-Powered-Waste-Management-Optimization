@@ -1,4 +1,4 @@
-            
+             
                # WasteNot: AI-Powered Waste Management Optimization
 
 ## Overview
